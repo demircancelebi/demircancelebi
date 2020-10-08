@@ -3,7 +3,7 @@ I'm Demir, a software engineer working at [OakNorth](https://www.oaknorth.com/).
 
 - [My CV](https://s3-eu-west-1.amazonaws.com/demircan/CV.pdf)
 - [@demircancelebi](https://twitter.com/demircancelebi)
-- demircancelebi@gmail.com.
+- demircancelebi@gmail.com
 
 ## Side projects
 ### [Litafl](http://litafl.com/)
