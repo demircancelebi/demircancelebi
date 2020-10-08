@@ -6,7 +6,7 @@ I'm Demir, a software engineer working at [OakNorth](https://www.oaknorth.com/).
 - demircancelebi@gmail.com
 
 ## Side projects
-### [Litafl](http://litafl.com/)
+### [Litafl - 2020](http://litafl.com/)
 Play Viking Chess (Tafl) online with other people.
 
 ### [Asonans - 2019](https://asonans.celebi.me/)
