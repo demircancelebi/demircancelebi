@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+I'm Demir, a software engineer working at [OakNorth](https://www.oaknorth.com/).
+
+- [My CV](https://s3-eu-west-1.amazonaws.com/demircan/CV.pdf)
+- [@demircancelebi](https://twitter.com/demircancelebi)
+- demircancelebi@gmail.com.
+
+## Side projects
+### [Litafl](http://litafl.com/)
+Play Viking Chess (Tafl) online with other people.
+
+### [Asonans - 2019](https://asonans.celebi.me/)
+Turkish assonance finder. Handy for writing lyrics or having fun with words :)
 
 <!--
 **demircancelebi/demircancelebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
