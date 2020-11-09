@@ -6,6 +6,9 @@ I'm Demir, a software engineer working at [OakNorth](https://www.oaknorth.com/).
 - demircancelebi@gmail.com
 
 ## Side projects
+### [tafl - 2020](https://www.npmjs.com/package/tafl)
+A Typescript library/npm package for the game Hnefatafl.
+
 ### [Litafl - 2020](http://litafl.com/)
 Play Viking Chess (Tafl) online with other people.
 
