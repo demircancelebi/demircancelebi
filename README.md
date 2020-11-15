@@ -6,20 +6,20 @@ I'm Demir, a software engineer working at [OakNorth](https://www.oaknorth.com/).
 - demircancelebi@gmail.com
 
 ## Side projects - experiments
-### [tafl - 2020](https://www.npmjs.com/package/tafl)
-A Typescript library/npm package for the game Hnefatafl (Viking Chess).
+### tafl - 2020
+A Typescript library/npm package for the game Hnefatafl (Viking Chess). [npm](https://www.npmjs.com/package/tafl) - [github](https://www.github.com/demircancelebi/tafl)
 
-### [Litafl - 2020](http://litafl.com/)
-Play Viking Chess (Tafl) online with other people.
+### Litafl - 2020
+Play Viking Chess (Tafl) online with other people. [litafl.com](http://litafl.com/)
 
-### [Asonans - 2019](https://asonans.celebi.me/)
-Turkish assonance finder. Handy for writing lyrics or having fun with words :)
+### Asonans - 2019
+Turkish assonance finder. Handy for writing lyrics or having fun with words :) [asonans.celebi.me](https://asonans.celebi.me)
 
-### [Stayin' Alive - 2012](https://alive.celebi.me/)
-A simple revolver game experiment based on a probability question. Shows the best strategy after a shot on different bullet arrangements.
+### Stayin' Alive - 2012
+A simple revolver game experiment based on a probability question. Shows the best strategy after a shot on different bullet arrangements. [alive.celebi.me](https://alive.celebi.me/)
 
-### [Simon - 2012](https://simon.celebi.me/)
-Classic Simon says game with sounds.
+### Simon - 2012
+Classic Simon says game with sounds. [simon.celebi.me](https://simon.celebi.me)
 
 <!--
 **demircancelebi/demircancelebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
