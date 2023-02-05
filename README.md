@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Demir, a software engineer working at [OakNorth](https://www.oaknorth.com/).
+I'm Demir, a software engineer.
 
 - [My CV](https://s3-eu-west-1.amazonaws.com/demircan/CV.pdf)
 - [@demircancelebi](https://twitter.com/demircancelebi)
